@@ -6,5 +6,8 @@ along with the link? I did, so I made this little toy!
 Put this script in the root of some subdomain, running under a restricted
 user, and the dir will fill up with icons as they are requested.
 
-For a live example, see favicon.bitplane.net
+For a live example, see: 
+http://favicon.bitplane.net/domain.name
 
+For the project's page, see:
+http://bitplane.net/projects/scripts/favicon-to-png/
