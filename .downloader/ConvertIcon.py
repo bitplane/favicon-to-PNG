@@ -1,4 +1,4 @@
-from sys import argv
+om sys import argv
 import PIL
 
 from LoadIcon import load_icon
@@ -6,7 +6,7 @@ from LoadIcon import load_icon
 # load the icon from first argument
 try:
   image = load_icon(argv[1], 0)
-except IOError: # sometimes people use other file types, ie bitmaps
+except IOError:
   image = PIL.Image.open(argv[1])
 
 # save it to file in second argument
