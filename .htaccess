@@ -1,0 +1,2 @@
+ErrorDocument 404 /.downloader/404.php
+ForceType image/png
