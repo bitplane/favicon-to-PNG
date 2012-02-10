@@ -1,0 +1,10 @@
+Favicon to PNG by Gaz Davidson <gaz@bitplane.net>
+
+Ever want to add a link to a site with the favourites icon in the page 
+along with the link? I did, so I made this little toy!
+
+Put this script in the root of some subdomain, running under a restricted
+user, and the dir will fill up with icons as they are requested.
+
+For a live example, see favicon.bitplane.net
+
